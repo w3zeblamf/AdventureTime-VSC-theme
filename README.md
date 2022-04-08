@@ -26,6 +26,8 @@ Restart VSCode and select the new theme in File -> Preferences -> Color Theme (A
 
 **Enjoy!**
 
+## 'Adventure Time Theme' screenshots
+
 ![Theme-Screenshot-4](https://user-images.githubusercontent.com/81195805/162545747-ab69571a-0a98-4e25-868e-4a77ed032cd2.png)
 
 ![Theme-Screenshot-1](https://user-images.githubusercontent.com/81195805/162545799-de6be616-0638-4c2a-afd4-f64ca2c50c24.png)
