@@ -25,3 +25,11 @@ Restart VSCode and select the new theme in File -> Preferences -> Color Theme (A
 * Visual Studio Code current version: v1.66.1
 
 **Enjoy!**
+
+![Theme-Screenshot-4](https://user-images.githubusercontent.com/81195805/162545747-ab69571a-0a98-4e25-868e-4a77ed032cd2.png)
+
+![Theme-Screenshot-1](https://user-images.githubusercontent.com/81195805/162545799-de6be616-0638-4c2a-afd4-f64ca2c50c24.png)
+
+![Theme-Screenshot-2](https://user-images.githubusercontent.com/81195805/162545843-155e922c-4793-49dd-9b37-2a017f2f2b5a.png)
+
+![Theme-Screenshot-3](https://user-images.githubusercontent.com/81195805/162545872-b3c56e97-7674-4dd7-bee6-bf9e2e8c6d1d.png)
