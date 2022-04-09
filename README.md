@@ -31,16 +31,16 @@ Restart VSCode and select the new theme in File -> Preferences -> Color Theme (A
 
 <p style= "align:center">
   <img src="https://github.com/w3zeblamf/AdventureTime-VSC-theme/blob/main/Theme-Screenshot-4.png" width="100%" height="100%" title="Theme-Screenshot" alt="Theme-Screenshot-4">
-</p><br>
+</p>
 
 <p style= "align:center">
   <img src="https://github.com/w3zeblamf/AdventureTime-VSC-theme/blob/main/Theme-Screenshot-1.png" width="100%" height="100%" title="Theme-Screenshot" alt="Theme-Screenshot-1">
-</p><br>
+</p>
 
 <p style= "align:center">
   <img src="https://github.com/w3zeblamf/AdventureTime-VSC-theme/blob/main/Theme-Screenshot-2.png" width="100%" height="100%" title="Theme-Screenshot" alt="Theme-Screenshot-2">
-</p><br>
+</p>
 
 <p style= "align:center">
   <img src="https://github.com/w3zeblamf/AdventureTime-VSC-theme/blob/main/Theme-Screenshot-3.png" width="100%" height="100%" title="Theme-Screenshot" alt="Theme-Screenshot-3">
-</p><br>
+</p>
