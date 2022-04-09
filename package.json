@@ -1,8 +1,18 @@
 {
     "name": "Adventure",
-    "displayName": "Adventure_Time",
-    "description": "Adventure-Theme",
+    "displayName": "Adventure Time",
+    "description": "Colorsublime | 'Adventure Time Theme'",
     "version": "0.0.1",
+    "publisher": "Zebla MF",
+	"author": {
+		"name": "Albez Figueroa",
+		"email": "zeblamfw3@gmail.com",
+		"url": "https://w3zeblamf.github.io/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/w3zeblamf/AdventureTime-VSC-theme.git"
+	},
     "engines": {
         "vscode": "^1.66.0"
     },
