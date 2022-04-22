@@ -10,7 +10,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#404449",
+				"foreground": "#3f662f",
 				"fontStyle": "italic"
 			}
 		},
@@ -310,7 +310,7 @@
 			"name": "Punctuation def comment",
 			"scope": "punctuation.definition.comment",
 			"settings": {
-				"foreground": "#404449"
+				"foreground": "#3f662f"
 			}
 		},
 		{
